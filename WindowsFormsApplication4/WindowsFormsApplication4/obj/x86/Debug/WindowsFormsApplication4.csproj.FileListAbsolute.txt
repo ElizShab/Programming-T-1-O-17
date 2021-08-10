@@ -1,0 +1,16 @@
+S:\FPMI-17\MIL_EV\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+S:\FPMI-17\MIL_EV\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+S:\FPMI-17\MIL_EV\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+S:\FPMI-17\MIL_EV\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+S:\FPMI-17\MIL_EV\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+S:\FPMI-17\MIL_EV\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+S:\FPMI-17\MIL_EV\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.AssemblyReference.cache
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.cache
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.CoreCompileInputs.cache
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+F:\_____Me____\!Университет!\Моё программирование\Моё программирование\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
